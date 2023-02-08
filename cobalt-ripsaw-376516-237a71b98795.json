@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-ripsaw-376516",
+  "private_key_id": "237a71b98795fe5e897cbe811ab198ad98ed44c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9lV0CXHyVax3H\nJlm9l+DBPdqvvybUiwSWdA0BUlvdlJTpWYPWuLauzF2FYJLosM5VjWz8wiNy2BVP\n6tSq9uox5oY/+2C6xONtr/y839n+7tiBvVUPhVWHvrWcfv71SumzFfj4GdvcUSMr\nusBHAKnKYAq17jbBVEoMdi2KbABGLcBRrvpsxhWQP0WW2Zi3H1Y/XVCpvfwm0R6C\ngdDYBZy1bLaxKB8+TrhyFmZZLjI58NbMYe5mVYURUhbw0r0SiFYWkiSGBqM/X04o\nrbhjd2mcLjuzkAMMh+gB1X2Rqo57aE2Ngrjri48URv+PlsT1OV+HK1hnq7t9HnAt\nKqhXz4TvAgMBAAECggEAVFHk4sJ45MoWHffYLSOqYrhclhMqNZk5KqOmDyLu2gAW\nNS1LnopcMiWSKNrZrGXK97ElususEY26+OcEvJ+CbTxPFJD9JkSgtK3z9puHbUQV\nBqtLdFJExtHTG64+PqIZjD3nFI4HxBdQUchHca0BV5Hc4ar4LoeLQbykJ68+dfdq\nHg6wiGDEIIF2c3Ba9by3Cjo3uIYZcn8srIbvtcXrq2N/2IC9wZ1412Tz4rgLbeGO\ng9SXUsyUcs4EHQc/OFAnX3oPFA1n7mYyz1fb62HdweopdFBCRqdLgcNJ08vqJkjM\n+PfSk6/vO33+D2x3MOedOimvc1VamQGwTW75F5PPoQKBgQDnmlBlotstcdmLPr5q\n6YkNY1PD5TLP3vY2Xl1fl+chfhwYlqPzBL+4BxZsgu7029JDwjFXGFnq+3QFz/47\n/jBHisofai9EegQK6tLlHN5cyHWoee9al3bEs/vlrz5v1b3kRGOY0RdU6D8zuMAk\nt8/WWEe9oUC5YKqepnj+qTGZTwKBgQDRjedve+dGak8hcJJj/tEC8i9OiVL1ycH2\ncj/izszdcCeNa8WzsqoYrB2yvpm3hpKAWxTFUDSmzbx04XpaV92lw49v/x9N6Pbm\n4z9aaWadXmqu6ZpY0TxG1Wpxs4jDwi3JwqF+fpAB4WcRz5+MleYW+Lx7P+1bIyfJ\n/5WRJ/0yYQKBgQCgb8aX0YwRXBe+HPXdq+9z5cXGI0TiuOpIWXBHYzwKeIjQA7KJ\nC1YgDlDbVIxh9NEgfSqe0dCgNhZ2XFIajwg01xETWARsZDXetjLn4eqrzXWsAuPr\nFpeAxcmOn6oZ4LANq85usxF9kPEPTEFWbjq8miUAWO80O6GWC24vw1cHgwKBgAUp\nJ3/5XzK+v4AlU5We2urlqACZJS/kbiBxo90kFquFbZPwCYhpaAL/iiOyyfpZGBaN\nJ6/MT9+jxXZjby32aAEDFe8+Kzkx+ZKqGg9R9TL+9kWkfyac0I02CE8Qite3WoVT\ng8Knv0gskus/X8CImIgMTCgE5QWPkhVJdBeFEplBAoGAckZjzrEkUrz3Zjiecsi3\nErSKAcp7/oagYRMM/calXH49xx5j7x6lAlQRhr+qguqKnXWn6y/nps1DmDukj51+\nyMwI0AZV6LOIsMZgoNHvM2ZHyl2yNDCmJfKwRWvjkGR/AxJjfutLu2gameTnIZXK\nhvGiClQFvwQqV/P6IkZpwnY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "challenge-indicium-dataenginee@cobalt-ripsaw-376516.iam.gserviceaccount.com",
+  "client_id": "101463648709731487192",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/challenge-indicium-dataenginee%40cobalt-ripsaw-376516.iam.gserviceaccount.com"
+}

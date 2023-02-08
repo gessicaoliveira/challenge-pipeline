@@ -1,0 +1,9 @@
+category_id,category_name,description,picture
+1,Beverages,"Soft drinks, coffees, teas, beers, and ales",<memory at 0x0000022EDED03AC0>
+2,Condiments,"Sweet and savory sauces, relishes, spreads, and seasonings",<memory at 0x0000022EDED03D00>
+3,Confections,"Desserts, candies, and sweet breads",<memory at 0x0000022EDED03DC0>
+4,Dairy Products,Cheeses,<memory at 0x0000022EDED03E80>
+5,Grains/Cereals,"Breads, crackers, pasta, and cereal",<memory at 0x0000022EDED03F40>
+6,Meat/Poultry,Prepared meats,<memory at 0x0000022EDEE64040>
+7,Produce,Dried fruit and bean curd,<memory at 0x0000022EDEE64100>
+8,Seafood,Seaweed and fish,<memory at 0x0000022EDEE641C0>
